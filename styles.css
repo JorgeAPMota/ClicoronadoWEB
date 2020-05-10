@@ -1,0 +1,31 @@
+img.logo_mini_img{
+    padding: 0rem 0rem 0rem;
+    margin: auto;
+    display: block;
+}
+
+.footerImg {
+    padding: 15px;
+    max-height: 40px;
+    width: auto;
+}
+
+.fa {
+  margin: 10px;
+}
+
+.fa-facebook-square {
+  color: #3b5998;
+}
+
+.fa-google-plus-square {
+  color: #c32f10;
+}
+
+.fa-instagram {
+  color: #ffffff;
+}
+
+.socialWrapper {
+  margin: auto;
+}

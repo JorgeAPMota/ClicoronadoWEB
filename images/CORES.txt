@@ -1,0 +1,7 @@
+		R	G	B
+Logo:
+Verde		8	134	149	#088695
+Dourado		174	147	73	#AE9349
+Branco		255	255	255	#FFFFFF
+
+TonsdeVerde	
