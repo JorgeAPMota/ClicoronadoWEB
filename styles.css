@@ -29,3 +29,21 @@ img.logo_mini_img{
 .socialWrapper {
   margin: auto;
 }
+
+.fa-facebook-square{
+    color:#89734c;
+}
+
+.fa-google-plus-square{
+    color:#89734c;
+}
+
+.fa-instagram{
+    color:#89734c;    
+}
+
+.colors{
+    color: #008891;
+    outline-color: #89734c;
+    
+}
